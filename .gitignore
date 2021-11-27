@@ -17,3 +17,13 @@ docker/clover
 node_modules
 runtime.log
 subkey.md
+.idea
+.vscode
+debug/
+target/
+
+Cargo.lock
+
+**/*.rs.bk
+
+*.pdb
